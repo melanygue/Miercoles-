@@ -1,0 +1,25 @@
+h1{ 
+    color: rgb(151, 97, 201);
+}
+h2{
+    color: khaki;
+}
+p{ 
+    color: lawngreen; 
+}
+h3{
+    color: mediumvioletred;
+} 
+h4{
+    color: indianred;
+}
+#encabezado-seis{
+    color: rgb(15, 158, 15);
+}
+.text-danger{
+    color: magenta;
+}
+.text-green{
+    color: brown;
+}
+body{ background-color: coral;}
